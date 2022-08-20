@@ -26,4 +26,3 @@ yarn.log
 
 # lock files
 *-lock.json
-*.lock
